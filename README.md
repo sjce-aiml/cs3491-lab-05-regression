@@ -4,6 +4,9 @@
 
 ▶️ **Watch first:** [Lab 05 walkthrough](https://www.youtube.com/@DrAnandharajan) · 📗 **Lesson & quiz:** [https://anandharajan.github.io/gradient-edu/#lab-5](https://anandharajan.github.io/gradient-edu/#lab-5)
 
+📘 **Lab manual (Ex.No 5(a), 5(b)):** record notes [Ex.No5a.txt](https://github.com/Anandharajan/AIML_Lab/blob/main/experiments/Ex05_Regression/Ex.No5a.txt) · [Ex.No5b.txt](https://github.com/Anandharajan/AIML_Lab/blob/main/experiments/Ex05_Regression/Ex.No5b.txt). Use them for Aim/Procedure in REPORT.md and your record. The reference program unlocks in the app once you score 60%.
+
+
 ## Your task
 Open `src/lab05.py` and implement every function marked `TODO`. Do **not** rename functions or
 change their parameters — the autograder calls them exactly as written.
